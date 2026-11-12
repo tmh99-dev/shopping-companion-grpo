@@ -1,0 +1,11 @@
+# Additional runtime dependencies, NOT a historical environment lock.
+# Install CUDA-compatible PyTorch and a compatible verl checkout first.
+# See docs/reproduction.md; do not assume the newest verl API is compatible.
+numpy
+torch
+transformers
+peft
+accelerate
+omegaconf
+tensordict
+matplotlib

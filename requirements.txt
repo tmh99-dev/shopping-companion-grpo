@@ -1,0 +1,4 @@
+# CPU Harness and reproducible unit-test environment, verified during release.
+numpy==1.26.4
+pyarrow==16.1.0
+pytest==7.4.4
